@@ -1,0 +1,6 @@
+﻿  GrandChallenge.cpp
+c:\users\h\documents\visual studio 2015\projects\grand programming challenge\grand programming challenge\grandchallenge.cpp(152): warning C4101: 'oor': unreferenced local variable
+c:\users\h\documents\visual studio 2015\projects\grand programming challenge\grand programming challenge\grandchallenge.cpp(172): warning C4101: 'oor': unreferenced local variable
+c:\users\h\documents\visual studio 2015\projects\grand programming challenge\grand programming challenge\grandchallenge.cpp(193): warning C4101: 'oor': unreferenced local variable
+  Grand Programming Challenge.vcxproj -> C:\Users\h\documents\visual studio 2015\Projects\Grand Programming Challenge\Debug\Grand Programming Challenge.exe
+  Grand Programming Challenge.vcxproj -> C:\Users\h\documents\visual studio 2015\Projects\Grand Programming Challenge\Debug\Grand Programming Challenge.pdb (Full PDB)
